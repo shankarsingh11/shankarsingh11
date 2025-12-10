@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React+SpringBoot+Mongodb+AI-Powered Project**
 
-- 🌱 I’m currently learning **SpringBoot, React, MongoDB, AI APIs**
+- 🌱 I’m currently learning **SpringBoot, React, MongoDB, AI APIs Integration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shankarsingh11](https://github.com/shankarsingh11)
 
