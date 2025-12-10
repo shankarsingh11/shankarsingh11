@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarsingh11&label=Profile%20views&color=0e75b6&style=flat" alt="shankarsingh11" /> </p>
 
-- 🔭 I’m currently working on **Java Project**
+- 🔭 I’m currently working on **React+SpringBoot+Mongodb+AI-Powered Project**
 
-- 🌱 I’m currently learning **Spring,Spring Boot,React**
+- 🌱 I’m currently learning **SpringBoot, React, MongoDB, AI APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shankarsingh11](https://github.com/shankarsingh11)
 
-- 💬 Ask me about **java,dsa,oops,sql**
+- 💬 Ask me about **java, Springboot, Mongodb, React, dsa,oops,sql**
 
-- 📫 How to reach me **singhshankarsde.2002@gmail.com**
+- 📫 How to reach me **shankar.singh.sde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
