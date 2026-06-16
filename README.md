@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, Welcome to my GitHub page!</h1>
-<h3 align="center">I'm shankar, a Software Engineer having 10+ months of experience working in Backend and Technical Support Engineering. Skilled in Java, Spring Boot, Spring Data JPA, Spring AI, REST APIs, and MySQL. Strong foundation in backend development, database management, debugging, and problem-solving. Seeking an opportunity to build scalable applications and grow as a Java Full Stack Developer.</h3>
+<h3 align="center">I'm shankar, a Software Engineer having 10+ months of experience working in Backend and Technical Support Engineer. Skilled in Java, Spring Boot, Spring Data JPA, Spring AI, REST APIs, and MySQL. Strong foundation in backend development, database management, debugging, and problem-solving. Seeking an opportunity to build scalable applications and grow as a Java Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarsingh11&label=Profile%20views&color=0e75b6&style=flat" alt="shankarsingh11" /> </p>
 
